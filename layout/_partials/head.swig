@@ -29,11 +29,7 @@
 
 
 {% if theme.use_font_lato %}
-<<<<<<< HEAD
-  <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
-=======
     <link href='//fonts.googleapis.com/css?family=Lato:300,400,700,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
->>>>>>> 6d3d9a70c4ccbb47f61045b595061283814281b8
 {% endif %}
 
 
