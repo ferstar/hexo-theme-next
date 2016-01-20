@@ -58,9 +58,9 @@ menu_icons:
 
 # Schemes
 
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 
@@ -147,7 +147,7 @@ scroll_to_more: true
 # Automatically Excerpt
 auto_excerpt:
   enable: true
-  length: 150
+  length: 200
 
 # Use Lato font
 use_font_lato: true
