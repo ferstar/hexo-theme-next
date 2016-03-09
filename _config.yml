@@ -40,7 +40,7 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwsome icon.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: true
+  enable: false
   # Icon Mapping.
   home: home
   about: user
@@ -150,7 +150,7 @@ auto_excerpt:
   length: 200
 
 # Use Lato font
-use_font_lato: true
+use_font_lato: false
 
 
 
